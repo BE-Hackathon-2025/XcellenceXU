@@ -17,8 +17,6 @@ Deploy to Streamlit Cloud
 
 Sample URL
 
-https://share.streamlit.io/adaughte777/stormsensexu/main/app.py
+https://h4cu5jyegwydypxxicovjk.streamlit.app/
 
-Screenshot
 
-*(Add screenshots here)*
